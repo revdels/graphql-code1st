@@ -4,4 +4,6 @@
 /.project
 /.settings
 /.classpath
-
+*~
+*.swp
+*.swo
