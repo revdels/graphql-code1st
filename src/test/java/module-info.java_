@@ -1,0 +1,5 @@
+
+
+module revdels.grapgql.code1st.test {
+	requires transitive revdels.grapgql.code1st;
+}
